@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+     color: #40514E;
+  }
+  
+  
+  h1{
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+  
+  }
+  
+  h2{
+    font-family: sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+  font-weight: normal;
+  }
+  
+  h3{
+    font-family:  sans-serif;
+    color: #66BFBF;
+  
+  }
+  
+  
+  
+  .top-cloud{
+    position: absolute;
+    right: 300px;
+    top:50px;
+  
+  }
+  
+  
+  .bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom:300px;
+  
+  }
+  
+  .moutain{
+    margin-top:8%;
+  }
+  
+  
+  .top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+  
+  }
+  
+  .skill-row{
+  margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+  }
+  
+  .front-end{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+  
+  }
+  
+  
+  .backend-end{
+    width: 25%;
+    float: right;
+  }
+  
+   .middle-container p{
+   color: #40514E;
+  }
+  
+  .middle-container{
+    margin: 100px 0;
+  
+  
+  }
+  
+  .BUTTON_PHT {
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 20;
+    padding: 10px;
+    background-color: #66BFBF;
+    
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .bottom-container{
+    background-color: #66BFBF;
+    margin-top: 50px;
+    width: 100%;
+    padding-top: 50px;
+    height: 20%;
+  
+  }
+  
+  
+  .footer-link {
+  margin-left: 30px;
+    color: #11999E;
+    text-decoration: none;
+    font-family:  sans-serif;
+  
+  }
+  
+  a:hover{
+    color: white;
+  }
+  
+  
+  
+  .bottom-container p{
+  
+    color: #EAF6F6;
+    padding-top: 40px;
+  
+  }
+  
+  hr{
+    border: 6px dotted #EAF6F6;
+    width:5%;
+    border-top: none;
+  }
+  
+  .intro{
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  p{
+    line-height: 2;
+  }
+  
+  .contact-message{
+  
+    width: 30%;
+    margin: 40px auto 60px;
+  }
